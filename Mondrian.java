@@ -1,10 +1,3 @@
-/* Tisya Bhatia
- * 2.19.2025
- * CSE 123 BB
- * C2: Mondrian Art
- * TA: Shreya Pandey
- */
-
 import java.util.*;
 import java.awt.*;
 
